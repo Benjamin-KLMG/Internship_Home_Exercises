@@ -5,7 +5,6 @@ Data Engineer (Internship) Home Exercises
 
 """
 
-import sys
 from operator import itemgetter
 from pathlib import Path
 
