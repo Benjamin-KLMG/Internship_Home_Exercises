@@ -14,12 +14,12 @@ python3 main.py data/input/song_data.csv 100
 ```
 
 
-NB: you can get the answer of the first question by:
+NB: you can get the answer of the first question (1. If you have a table like this, how do you write a query to get the most listened song for each country?) by:
 ```
 python3 main.py data/input/song_data.csv 1
 ```
 
-But if you want, you can use auther data by this way() :
+But if you want, you can use other data by this way() :
 
 ```shell script
 python3 main.py path/to/song_data.csv top_k
